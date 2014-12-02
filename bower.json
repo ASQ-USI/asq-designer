@@ -1,6 +1,5 @@
 {
   "name": "designer",
-  "private": true,
   "dependencies": {
     "webcomponentsjs": "Polymer/webcomponentsjs#master",
     "code-mirror": "PolymerLabs/code-mirror#master",
@@ -11,6 +10,7 @@
     "paper-elements": "Polymer/paper-elements#master",
     "paper-calculator": "Polymer/paper-calculator#master",
     "topeka-elements": "Polymer/topeka-elements#master",
-    "more-elements": "Polymer/more-elements#master"
+    "more-elements": "Polymer/more-elements#master",
+    "asq-elements": "ASQ-USI/asq-elements"
   }
 }
