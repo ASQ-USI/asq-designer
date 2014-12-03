@@ -1,5 +1,5 @@
 {
-  "name": "designer",
+  "name": "asq-designer",
   "dependencies": {
     "webcomponentsjs": "Polymer/webcomponentsjs#master",
     "code-mirror": "PolymerLabs/code-mirror#master",
