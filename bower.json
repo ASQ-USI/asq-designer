@@ -11,11 +11,11 @@
     "paper-calculator": "Polymer/paper-calculator#master",
     "topeka-elements": "Polymer/topeka-elements#master",
     "more-elements": "Polymer/more-elements#master",
-    "asq-elements": "ASQ-USI/asq-elements"
+    "asq-elements": "ASQ-USI-Elements/asq-elements"
   },
   "resolutions": {
-    "paper-elements": "0.5.1",
-    "core-elements": "0.5.1",
+    "paper-elements": "~0.5.1",
+    "core-elements": "~0.5.1",
     "webcomponentsjs": "^0.5.0",
     "polymer": "^0.5.0",
     "core-component-page": "^0.5.0",
@@ -91,8 +91,11 @@
     "context-free-parser": "^0.5.0",
     "marked-element": "^0.5.0",
     "prettify-element": "^0.5.0",
-    "google-apis": "~0.4.2",
+    "google-apis": "master",
     "polymer-test-tools": "^0.5.0",
-    "core-iconset": "^0.5.0"
+    "core-iconset": "^0.5.0",
+    "code-mirror": "master",
+    "core-scroll-threshold": "^0.5",
+    "core-resizable": "^0.5"
   }
 }
